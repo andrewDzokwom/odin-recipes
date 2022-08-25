@@ -1,0 +1,26 @@
+body{
+    background-color: burlywood;
+}
+ 
+h1 {
+    text-align: center;
+}
+.image {
+    text-align: center;
+}
+.recipe {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+.recipe:hover {
+    font-size: 36px;
+    transition: 0.7s;
+    display: inline;
+}
+.list {
+    padding-left: 40px;
+}
+#bottom {
+    font-size: 24px;
+}
