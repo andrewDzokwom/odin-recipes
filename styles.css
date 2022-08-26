@@ -24,3 +24,7 @@ h1 {
 #bottom {
     font-size: 24px;
 }
+img {
+    height: auto;
+    width: auto;
+}

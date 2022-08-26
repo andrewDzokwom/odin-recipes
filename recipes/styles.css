@@ -5,6 +5,8 @@ body {
 img {
     display: inline;
     text-align: center;
+    height: auto;
+    width: auto;
 }
 .image {
     text-align: center;
