@@ -1,9 +1,13 @@
 body{
     background-color: burlywood;
+    width: 70%;
+    margin: auto;
+    min-width: 1000px;
 }
  
 h1 {
     text-align: center;
+    
 }
 .image {
     text-align: center;
@@ -16,13 +20,15 @@ h1 {
 .recipe:hover {
     font-size: 36px;
     transition: 0.7s;
-    display: inline;
+    display: inline-block;
 }
 .list {
-    padding-left: 40px;
+    display: flex;
+    justify-content: space-around;
 }
 #bottom {
     font-size: 24px;
+    text-align: center;
 }
 img {
     height: auto;
